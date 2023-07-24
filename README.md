@@ -2,6 +2,8 @@
 
 This C program finds all natural numbers less than 10000 that are equal to the sum of the cubes of their digits. The program is implemented in C and demonstrates a simple algorithm to iterate through numbers and check if they meet the specified condition.
 
+It was another exercise from Professor @Bernd-ulmann
+
 ## Table of Contents
 
 - [Introduction](#introduction)
